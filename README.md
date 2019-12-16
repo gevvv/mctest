@@ -22,7 +22,7 @@ You have two different ways to run autotest, with HTML REPORT or with ALLURE REP
    RUN autotests with HTML_REPORT : $ pytest --html=report.html Tests.py
   
    RUN autotests with allure report: 
-   Take  step 1 and 2 only once    
+   Take  step 1 and 2 only once.    
       1.GO TO allure_2_9_0/allure-2.9.0/bin
       2.RUN IN TERMINAL   $ ./allure generate directory-with-results/ -o directory-where-u-want-indexhtmlreport-
                                      -to-be-generated/                                
