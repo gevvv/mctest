@@ -1,4 +1,0 @@
-ok
-fortest648@vipepe.com
-{'message': 'Endpoint/request/mail/id/272b2b3f431333ddeaa270b73c9f6bba does not exist'}
-subscribe ape

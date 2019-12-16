@@ -1,4 +1,0 @@
-ok
-fortest954@vipepe.com
-{'error': 'There are no emails yet'}
-subscribe ape
