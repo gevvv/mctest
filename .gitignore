@@ -1,4 +1,5 @@
-.pytest_cache
-.idea
-tests/allure_reports
-tests/allure_data
+/.idea
+/.pytest_cache/
+/tests/.pytest_cache/
+/tests/allure_data/
+/tests/allure_reports/
