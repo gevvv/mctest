@@ -26,6 +26,6 @@ You have two different ways to run autotest, with HTML REPORT or with ALLURE REP
     RUN IN TERMINAL   $ ./allure generate directory-with-results/ -o directory-where-u-want-indexhtmlreport-
                                      -to-be-generated/
                                      
-# How_to_run with ALLURE        : $ pytest /path_to_directory_to/Tests.py --alluredir=/path_to_directory_to/allure_data
-# How to see allure report      : $ ./allure open 'path_to_directory_allure_reports/allure_reports/'
+### How_to_run with ALLURE        : $ pytest /path_to_directory_to/Tests.py --alluredir=/path_to_directory_to/allure_data
+### How to see allure report      : $ ./allure open 'path_to_directory_allure_reports/allure_reports/'
            
