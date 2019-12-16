@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Dec 13 16:26:23 EET 2019","Fri Dec 13 16:26:31 EET 2019","7836","","Tests","","","","test_download_and_signing_up",""

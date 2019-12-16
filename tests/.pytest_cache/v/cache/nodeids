@@ -1,0 +1,4 @@
+[
+  "Tests.py::test_yandex_search",
+  "Tests.py::test_download_and_signing_up"
+]

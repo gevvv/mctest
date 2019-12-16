@@ -1,0 +1,4 @@
+.pytest_cache
+.idea
+tests/allure_reports
+tests/allure_data
