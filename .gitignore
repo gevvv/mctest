@@ -5,5 +5,5 @@
 /tests/allure_reports/
 
 
-git rm -r --cached /Users/gevfolder/PycharmProjects/autotests/tests/allure_reports
+
 
