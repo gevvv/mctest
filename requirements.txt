@@ -24,7 +24,7 @@ six==1.13.0
 soupsieve==1.9.5
 tempMail==3.0
 tempMail2==1.0.2
-urllib3==1.25.7
+urllib3==1.26.5
 wcwidth==0.1.7
 webdriver-manager==2.3.0
 websocket-client==0.56.0
